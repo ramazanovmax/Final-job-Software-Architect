@@ -9,3 +9,7 @@
 8.	[Атрибуты качества.](pages/quality_attributes.md)
 9.	[Анализ и список нефункциональных требований](pages/non-functional_requirenments.md)
 10.	[Анализ и описание архитектурных опций и обоснование выбора.](pages/architecture_options.md)
+11.	[Список ADR](pages/adr_list.md)
+12.	[Описание сценариев использования приложения](pages/description_o_application_usage_scenarios.md)
+13.	[Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества](pages/basic_architecture.md)
+14.	[Основные представления](pages/basic_views.md)
